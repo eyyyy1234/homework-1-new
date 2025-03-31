@@ -1,0 +1,24 @@
+.gh{
+    background-color: rgb(170, 0, 0);
+}
+.gh1{
+    color: aliceblue;
+    background-color: aqua;
+    text-align: center;
+}
+.gh2{
+    background-color: burlywood;
+    border: 20px;
+    border-radius: 2px solid black;
+    width: 900;
+}
+.gh3{
+    background-color: aliceblue;
+    width: 10;
+    text-align:left ;
+    border-radius: 2px solid black;
+}
+.gh4{
+    background-color: black;
+    color: aliceblue;
+}
